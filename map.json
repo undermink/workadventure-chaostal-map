@@ -382,8 +382,17 @@
          "source":"tileset.tsx"
         }, 
         {
+         "columns":32,
          "firstgid":513,
-         "source":"..\/..\/tiled_maps\/tileset.tsx"
+         "image":"..\/..\/Downloads\/tileset.png",
+         "imageheight":512,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"tileset",
+         "spacing":0,
+         "tilecount":512,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
