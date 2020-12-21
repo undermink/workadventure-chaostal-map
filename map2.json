@@ -45,6 +45,12 @@
          "id":15,
          "name":"website-layer",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/choastal.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":55,
