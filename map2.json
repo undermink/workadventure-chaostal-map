@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zweitgolf.de"
+                 "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#chaostal?nick=chaostal-gast"
                 }],
          "type":"tilelayer",
          "visible":true,
