@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneURL",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/undermink.github.io\/workadventure-chaostal-map\/map.json"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -142,7 +142,7 @@
                  "value":"https:\/\/zweitgolf.de"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
          "name":"silent",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":55,
          "x":0,
          "y":0
