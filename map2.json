@@ -774,6 +774,42 @@
                         }]
                 }, 
                 {
+                 "id":176,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":177,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":178,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":179,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":192,
                  "properties":[
                         {
@@ -833,10 +869,46 @@
                         }]
                 }, 
                 {
+                 "id":208,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":211,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":236,
                  "properties":[
                         {
                          "name":"colides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":240,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":243,
+                 "properties":[
+                        {
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -848,6 +920,11 @@
                          "name":"colides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -855,6 +932,11 @@
                  "properties":[
                         {
                          "name":"colides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
