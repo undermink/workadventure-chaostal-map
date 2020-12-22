@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/devtal.de"
+                 "value":"https:\/\/www.devtal.de\/blog\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=UYqRNH4eCy0"
+                 "value":"https:\/\/www.youtube.com\/embed\/UYqRNH4eCy0"
                 }],
          "type":"tilelayer",
          "visible":true,
