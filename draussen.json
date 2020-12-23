@@ -12,7 +12,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map2.json"
+                 "value":"map2.json#startB"
                 }],
          "type":"tilelayer",
          "visible":true,
