@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map2.json#start"
+                 "value":"https:\/\/visit.at.rc3.world\/as\/lobby\/wtaRQABvFCEawptcKCYqAs\/_\/global\/lobby.maps.at.rc3.world\/maps\/erfas-spaces-north.json"
                 }],
          "type":"tilelayer",
          "visible":true,
