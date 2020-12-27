@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lobby\/erfas-south.json#start_chaostal"
+                 "value":"{<lobby>\/erfas-south.json#start_chaostal}"
                 }],
          "type":"tilelayer",
          "visible":true,
